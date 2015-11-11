@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega256A3BU"</DEVICE>
+ <WORKING_DIR>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega256A3BUdef.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\atxmega256a3budef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\Debug/HW4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW4.map</FILE>
+  <FILE>HW4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>21</LINE></start>
+  <loop><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>30</LINE></loop>
+  <else><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>77</LINE></else>
+  <outLoop><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>39</LINE></outLoop>
+  <loop12><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>42</LINE></loop12>
+  <loop22><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>43</LINE></loop22>
+  <loop32><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>44</LINE></loop32>
+  <outLoop2><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>57</LINE></outLoop2>
+  <loop42><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>58</LINE></loop42>
+  <loop52><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>59</LINE></loop52>
+  <loop62><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>60</LINE></loop62>
+  <inLoop><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>78</LINE></inLoop>
+  <loop1><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>81</LINE></loop1>
+  <loop2><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>82</LINE></loop2>
+  <loop3><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>83</LINE></loop3>
+  <inLoop2><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>96</LINE></inLoop2>
+  <loop4><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>97</LINE></loop4>
+  <loop5><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>98</LINE></loop5>
+  <loop6><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>99</LINE></loop6>
+  <endif><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>110</LINE></endif>
+  <here><FILE>C:\Users\Robyn\Documents\Atmel Studio\6.2\HW4\HW4\HW4.asm</FILE><LINE>113</LINE></here>
+ </LABELS>
+</ASSEMBLER_INFO>
